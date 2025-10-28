@@ -1,0 +1,15 @@
+{
+    "version": "0.1.11",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/xraph/forge/releases/download/v0.1.11/forge-0.1.11-windows-x86_64.zip",
+            "bin": [
+                "forge.exe"
+            ],
+            "hash": "cef451967a5e174a8d088986809bfae019688ea178442c92460acc5c2dc84ab6"
+        }
+    },
+    "homepage": "https://github.com/xraph/forge",
+    "license": "MIT",
+    "description": "Comprehensive backend framework for Go with enterprise-grade features"
+}
