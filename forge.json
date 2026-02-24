@@ -1,12 +1,12 @@
 {
-    "version": "0.9.12",
+    "version": "0.10.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xraph/forge/releases/download/v0.9.12/forge-0.9.12-windows-x86_64.zip",
+            "url": "https://github.com/xraph/forge/releases/download/v0.10.0/forge-0.10.0-windows-x86_64.zip",
             "bin": [
                 "forge.exe"
             ],
-            "hash": "5698264dc69acb02a5e0552a3289fe2f7403c249ea162a090e48b8c4229bf2b9"
+            "hash": "3c7593b4eb29ec08552fcff084c0233d0d2154c93543da0f19c2899aa7727f59"
         }
     },
     "homepage": "https://github.com/xraph/forge",
